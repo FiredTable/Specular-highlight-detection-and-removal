@@ -1,0 +1,16 @@
+2025-11-05 17:04:15,759 - logger.log - INFO - 
+-------------- Start --------------
+2025-11-05 17:04:16,084 - logger.log - INFO - Stokes calculation time: 0.0109 s
+2025-11-05 17:04:16,085 - logger.log - INFO - S0 range: min-(0.004498902175269788), max-(2.3750118915068983)
+2025-11-05 17:04:16,085 - logger.log - INFO - S1 range: min-(-0.7180049978251732), max-(2.1149921007820174)
+2025-11-05 17:04:16,086 - logger.log - INFO - S2 range: min-(-0.915112132209174), max-(0.9491427043664769)
+2025-11-05 17:04:16,662 - logger.log - INFO - Polarization features calculation time: 0.0937 s
+2025-11-05 17:04:24,530 - logger.log - INFO - Specular highlight detection time: 7.1676 s
+2025-11-05 17:04:24,530 - logger.log - INFO - Cluster 0: iun-(0.0441), rho-(0.1166)
+2025-11-05 17:04:24,531 - logger.log - INFO - Cluster 1: iun-(0.1495), rho-(0.7626)
+2025-11-05 17:04:24,531 - logger.log - INFO - Cluster 2: iun-(0.1133), rho-(0.4754)
+2025-11-05 17:04:24,531 - logger.log - INFO - Cluster 3: iun-(0.9376), rho-(0.7291)
+2025-11-05 17:04:24,531 - logger.log - INFO - Cluster 4: iun-(0.4747), rho-(0.7119)
+2025-11-05 17:04:24,531 - logger.log - INFO - Cluster 5: iun-(0.2654), rho-(0.1910)
+2025-11-05 17:04:24,531 - logger.log - INFO - Cluster 6: iun-(0.0531), rho-(0.2685)
+2025-11-05 17:04:30,454 - logger.log - INFO - Specular highlight removal time: 4.6474 s
