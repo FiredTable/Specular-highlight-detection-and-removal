@@ -45,7 +45,7 @@ We compute the Stokes parameters as follows. ${S}_{0}^{\prime} $ can be obtained
 ```math
 \begin{align}  
 	{S}_{0}^{\prime} & = \frac{1}{2}\left( {{S}_{0}} + \cos 2\varphi \cos \left( 2\theta - 2\varphi \right) {S}_{1} \right. \notag \\ 
-	&\phantom{{}={}} \left. + \sin 2\varphi \cos \left( 2\theta - 2\varphi \right) {{S}_{2}} + \sin \left( 2\theta - 2\varphi \right) {{S}_{3}} \right) 
+	& \left. + \sin 2\varphi \cos \left( 2\theta - 2\varphi \right) {{S}_{2}} + \sin \left( 2\theta - 2\varphi \right) {{S}_{3}} \right) 
 \end{align}
 ```
 
