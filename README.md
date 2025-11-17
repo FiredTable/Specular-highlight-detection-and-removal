@@ -95,14 +95,15 @@ When $\mathbf{A}$ is non-ill-conditioned and its rank is greater than or equal t
 If our project supports your research, please cite our Applied Optics paper:  
 
 ```bibtex
-@article{zhou_shdr2025,
-  author  = {...},  
-  title   = {...},  
-  journal = {Applied Optics},
-  volume  = {...},
-  year    = {2025},
-  pages   = {...},
-  doi     = {...}    % Waiting for publication
+@article{zhou_specular_2025,
+	author = {Zhou, Junzhuo and Qiu, Ye and Zou, Jun and Hao, Jia and Liu, Zhihe and Li, Wenli and Yu, Yiting},
+	title = {Specular Highlight Suppression based on Full Polarization Imaging},
+	journal = {Applied Optics},
+	issn = {1559-128X, 2155-3165},
+	url = {https://opg.optica.org/ao/abstract.cfm?doi=10.1364/AO.578125},
+	doi = {10.1364/AO.578125},
+	urldate = {2025-11-17},
+	month = nov,
+	year = {2025},
 }
-
 
